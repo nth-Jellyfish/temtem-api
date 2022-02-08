@@ -2,6 +2,7 @@
 
 # Temtem API
 
+TEST
 A JSON API to return data about the game [Temtem](https://crema.gg/games/temtem/) from the [Official Wiki](https://temtem.gamepedia.com/), that is updated every 4 hours.
 
 ## Install
